@@ -1,3 +1,2 @@
 #!/bin/bash
 chmod u=rwx,go=r-x,o=w+x hello
-
