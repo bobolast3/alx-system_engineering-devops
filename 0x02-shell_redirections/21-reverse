@@ -1,2 +1,2 @@
 #!/bin/bash
-echo "$(read -r input | rev)"
+tr 'a-zA-Z' 'a-zA-Z' | rev
